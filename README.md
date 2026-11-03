@@ -48,6 +48,8 @@ I am a Software Engineer focused on building production-grade backend systems, s
 
 ### 📊 GitHub Metrics
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pravinkumarpathak&theme=tokyonight" alt="GitHub Streak" />
-</p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pravinkumarpathak&show_icons=true&locale=en&layout=compact" alt="pravinkumarpathak" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pravinkumarpathak&show_icons=true&locale=en" alt="pravinkumarpathak" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pravinkumarpathak&" alt="pravinkumarpathak" /></p>
