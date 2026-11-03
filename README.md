@@ -12,19 +12,33 @@
 ---
 
 ### 👨‍💻 About Me
-I am a Software Engineer focused on building scalable backend systems, robust REST APIs, and high-performance web applications using **Java, Spring Boot, PostgreSQL, and React**. 
+I am a Software Engineer focused on building production-grade backend systems, secure RESTful APIs, and responsive full-stack applications. Backed by a **B.Tech in Computer Science & Engineering (Data Science)**, I combine core software engineering principles with data-driven architecture.
 
-- 🚀 **Featured Deployed Project:** [Conference Expense Planner (React & Redux Toolkit)](https://github.com/PravinKumarPathak/Conference-Expense-Planner)
-- 💡 **Core Strengths:** Object-Oriented Programming, Secure RESTful API Architecture, State Management, and Database Design.
 - 🏆 **Credentials:** HackerRank 5-Star Gold Badge in Java.
 - 📫 **How to reach me:** **pravinkumarpathak25@gmail.com**
 
 ---
 
+### 🚀 Featured Projects
+
+- 📌 **[Task Management System](https://github.com/PravinKumarPathak/task-management-system)** — Full-stack application with **Spring Boot**, **Angular**, and **PostgreSQL**. Features fine-grained RBAC security, JWT authentication, transactional email, and Bucket4j rate limiting.
+- 🌐 **[Conference Expense Planner](https://github.com/PravinKumarPathak/Conference-Expense-Planner)** — Live event budgeting app built with **React**, **Redux Toolkit**, and **Vite**. Features dynamic cost allocation and real-time UI state sync.
+- 🔬 **[Protein-Cancer Correlator](https://github.com/PravinKumarPathak/Protein-Cancer-Correlator)** — ML/DL web platform using **Python**, **Scikit-Learn**, **Keras**, and **Flask** to analyze biomarker datasets and output diagnostic probability reports.
+
+---
+
 ### 🛠️ Technical Stack & Tools
 
+| Category | Technologies |
+| :--- | :--- |
+| **Backend & Core** | Java, Spring Boot, Spring Security (JWT), Spring Data JPA, Hibernate, REST APIs |
+| **Frontend** | React.js (Redux Toolkit, Hooks, Vite), Angular, TypeScript, JavaScript (ES6+), HTML5/CSS3 |
+| **Databases & Tools** | PostgreSQL, SQL, Python (Flask, Pandas, Scikit-Learn), Git/GitHub, JUnit, Postman, Linux/Unix, AWS |
+
+<br/>
+
 <p align="left">
-  <!-- Backend & Core -->
+  <!-- Core Backend -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring Boot" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
@@ -36,7 +50,7 @@ I am a Software Engineer focused on building scalable backend systems, robust RE
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
 
-  <!-- Python / Data / Cloud / Tools -->
+  <!-- Python / Cloud / Tools -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
@@ -46,7 +60,7 @@ I am a Software Engineer focused on building scalable backend systems, robust RE
 
 ---
 
-### 📊 GitHub Stats & Metrics
+### 📊 GitHub Metrics
 
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pravinkumarpathak&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
