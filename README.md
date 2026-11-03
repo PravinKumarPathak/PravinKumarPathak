@@ -42,30 +42,8 @@ I am a Software Engineer focused on building production-grade backend systems, s
 | **Backend & Core** | Java, Spring Boot, Spring Security (JWT), Spring Data JPA, Hibernate, REST APIs |
 | **Frontend** | React.js (Redux Toolkit, Hooks, Vite), Angular, TypeScript, JavaScript (ES6+), HTML5/CSS3 |
 | **Testing & Quality** | JUnit, Mockito, Vitest, Postman |
-| **Databases & Infrastructure** | PostgreSQL, SQL, Python (Flask, Pandas, Scikit-Learn), Git/GitHub, Linux/Unix, AWS |
-
-<br/>
-
-<p align="left">
-  <!-- Core Backend -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/> &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring Boot" width="40" height="40"/> &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/> &nbsp;
-  
-  <!-- Frontend -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/> &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/> &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/> &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/> &nbsp;
-
-  <!-- Python / Cloud / Tools -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/> &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/> &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/> &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle" width="40" height="40"/>
-</p>
+| **Data Science & ML** | Python, Flask, Pandas, Scikit-Learn, Keras |
+| **Databases & Infrastructure** | PostgreSQL, SQL, Git/GitHub, Linux/Unix, AWS |
 
 ---
 
