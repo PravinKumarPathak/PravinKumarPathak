@@ -49,5 +49,7 @@ I am a Software Engineer focused on building production-grade backend systems, s
 ### 📊 GitHub Metrics
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pravinkumarpathak&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://img.shields.io/badge/Total_Contributions-350%2B-0e75b6?style=for-the-badge&logo=github&logoColor=white" alt="Total Contributions" />
+  <img src="https://img.shields.io/badge/Primary_Stack-Java_%2F_Spring_Boot-2EC866?style=for-the-badge&logo=springboot&logoColor=white" alt="Primary Stack" />
+  <img src="https://img.shields.io/badge/Data_Science-Python_%2F_ML-0077B5?style=for-the-badge&logo=python&logoColor=white" alt="Data Science" />
 </p>
